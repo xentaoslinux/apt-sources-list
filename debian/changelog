@@ -1,3 +1,9 @@
+apt-sources-list (2.0.1) batik; urgency=medium
+
+  * Pembaharuan Berkas debian
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 18 Feb 2019 18:35:01 +0700 
+
 apt-sources-list (2.0.0) batik; urgency=medium
 
   * Konfigurasi Apt untuk Xenta OS Semua Edisi.
