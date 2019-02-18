@@ -1,0 +1,5 @@
+apt-sources-list (2.0.0) batik; urgency=medium
+
+  * Konfigurasi Apt untuk Xenta OS Semua Edisi.
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 18 Feb 2019 18:16:56 +0700 
