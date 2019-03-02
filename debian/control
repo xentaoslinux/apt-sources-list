@@ -1,7 +1,7 @@
 Source: apt-sources-list
 Section: utils
 Priority: optional
-Maintainer: Dindin Hernawan <dindin_hernawan@yahoo.com>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
 Homepage: https://github.com/xentaoslinux/apt-sources-list
@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/xentaoslinux/apt-sources-list.git
 Package: apt-sources-list
 Architecture: all
 Depends: 
-Description: Konfigurasi Apt untuk Xenta OS Semua Edisi
+Description: Paket Konfigurasi Apt untuk Xenta OS Semua Edisi
   Berisi Berkas Berkas apt sources.list bawaan Xenta OS
   Konfigurasi Apt untuk Xenta OS Semua Edisi.
 
